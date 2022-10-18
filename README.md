@@ -15,24 +15,24 @@ The main aim of the project is to bring all the Interview and Competitive progra
 
 ## Contributing
 
-**1.**  Fork [this](https://github.com/chamgourav007/starters.git) repository.
+**1.**  Fork [this](https://github.com/champgourav007/Starters.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_name>/starters.git
+git clone --depth 1 https://github.com/<your_name>/Starters.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd starters
+cd Starters
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/champgourav007/starters
+git remote add upstream https://github.com/champgourav007/Starters
 ```
 
 **5.** Check the remotes for this repository.
